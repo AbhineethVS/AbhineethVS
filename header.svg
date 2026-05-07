@@ -1,0 +1,16 @@
+<svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Abhineeth V S — builder. breaker. repeat.</title>
+  <desc>GitHub profile header for Abhineeth V S, first-year CS student and startup builder from Kerala, India.</desc>
+
+  <rect width="680" height="180" fill="#0d1117"/>
+
+  <rect x="0" y="0" width="3" height="180" fill="#238636"/>
+
+  <text x="40" y="52" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" letter-spacing="0.12em">// ABHINEETHVS · KERALA, INDIA · CET CSE 2025–2029</text>
+
+  <text x="40" y="102" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="-1px">Abhineeth V S</text>
+
+  <text x="40" y="132" font-family="'Courier New', monospace" font-size="16" fill="#58a6ff" letter-spacing="0.04em">builder. breaker. repeat.</text>
+
+  <text x="40" y="160" font-family="'Courier New', monospace" font-size="11" fill="#484f58">first-year CS · shipped a SaaS · closed a paying client · already building the next one</text>
+</svg>
