@@ -15,7 +15,7 @@
 
 ### 🟢 GymFlow &nbsp;·&nbsp; [app.usegymflow.com](https://app.usegymflow.com) &nbsp;`live · paying client`
 
-Full-stack gym management SaaS — built, deployed, and closed a real paying client as a first-year student.
+Full-stack gym management SaaS, built, deployed, and closed a real paying client as a first-year student.
 MERN stack · Azure App Service · MongoDB Atlas · Custom domain + SSL · *Private repo*
 
 `React` `Node.js` `Express` `MongoDB` `Azure` `REST API`
@@ -32,7 +32,7 @@ AI-powered deepfake photo & video detection. Team of 5. Python + Flask + Hugging
 
 ### 🟠 Wanderlust &nbsp;·&nbsp; `wip`
 
-Full Airbnb clone built without vibecoding — every line written and understood.
+Full Airbnb clone built without vibecoding; every line written and understood.
 
 `Node.js` `Express` `MongoDB` `EJS`
 
@@ -53,7 +53,7 @@ Tooling    Cursor · Claude · ChatGPT · Prompt Engineering
 
 ## a bit more
 
--  Attended **YC Startup School India '25**
+-  Attended **YC Startup School India '26**
 -  Obsessed with AI agents, cursor workflows, and pushing LLMs to their limits
 -  Always have something half-built in a tab somewhere
 -  Thiruvananthapuram, Kerala
