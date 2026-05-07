@@ -53,10 +53,10 @@ Tooling    Cursor · Claude · ChatGPT · Prompt Engineering
 
 ## a bit more
 
-- 🚀 Attended **YC Startup School India '25**
-- 🤖 Obsessed with AI agents, cursor workflows, and pushing LLMs to their limits
-- 🏗️ Always have something half-built in a tab somewhere
-- 📍 Thiruvananthapuram, Kerala
+-  Attended **YC Startup School India '25**
+-  Obsessed with AI agents, cursor workflows, and pushing LLMs to their limits
+-  Always have something half-built in a tab somewhere
+-  Thiruvananthapuram, Kerala
 
 ---
 
