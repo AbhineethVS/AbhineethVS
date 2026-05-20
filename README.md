@@ -13,6 +13,15 @@
 
 ## shipped
 
+### 🟢 Parayoo &nbsp;·&nbsp; [parayoo-early-access.vercel.app](https://parayoo-early-access.vercel.app/) &nbsp;`Early Access`
+
+Parayoo is an Android app for Malayalis who think in Malayalam but text in Manglish. A floating mic bubble sits over WhatsApp (and every other app). Tap it, speak naturally in Malayalam, and your words appear as Manglish in the text field, ready to send.
+No switching apps. No copy-paste. No typing · *Private repo*
+
+`Kotlin` 
+
+---
+
 ### 🟢 GymFlow &nbsp;·&nbsp; [app.usegymflow.com](https://app.usegymflow.com) &nbsp;`live · paying client`
 
 Full-stack gym management SaaS, built, deployed, and closed a real paying client as a first-year student.
