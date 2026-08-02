@@ -22,6 +22,14 @@ No switching apps. No copy-paste. No typing · *Private repo*
 
 ---
 
+### 🟢 [Exploding Chickens](https://github.com/AadithyaPradeep/GMTK26) &nbsp;·  [https://aadithya-pradeep.itch.io/exploding-chickens)  `live · GMTK 2026`
+
+Chaotic farm survival jam game: protect your flock from countdown bombs and wild chicken types across Farm, Dusk, and Graveyard. Story + Chaos modes. Team of 3. Creativity **#842** / 52 ratings.
+
+`Unity` `C#` `2D` `URP` `Game Jam`
+
+---
+
 ### 🟢 GymFlow &nbsp;·&nbsp; [app.usegymflow.com](https://app.usegymflow.com) &nbsp;`live · paying client`
 
 Full-stack gym management SaaS, built, deployed, and closed a real paying client as a first-year student.
@@ -55,7 +63,8 @@ Backend    Node.js · Express · REST APIs
 Database   MongoDB · MongoDB Atlas
 AI / ML    Python · Flask · HuggingFace · LLM APIs · MCP
 Infra      Azure · Namecheap · SSL
-Tooling    Cursor · Claude · ChatGPT · Prompt Engineering
+Tooling    Cursor · Claude · ChatGPT(Codex) · Prompt Engineering
+Games      Unity · C# · 2D URP
 ```
 
 ---
