@@ -2,7 +2,7 @@
 
 ![Header](./header.svg)
 
-[![Portfolio](https://img.shields.io/badge/portfolio-abhineethvs.github.io-0d1117?style=flat-square&logoColor=white&color=0d1117&labelColor=161b22)](https://abhineethvs.github.io)&nbsp;
+[![Blog/Portfolio](https://img.shields.io/badge/portfolio-abhineethvs.github.io-0d1117?style=flat-square&logoColor=white&color=0d1117&labelColor=161b22)]([https://abhineethvs.github.io](https://abhineethvs.vercel.app/))&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhineethvs-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&color=0d1117&labelColor=161b22)](https://www.linkedin.com/in/abhineethvs)&nbsp;
 [![Email](https://img.shields.io/badge/email-abhineethvs71-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&color=0d1117&labelColor=161b22)](mailto:abhineethvs71@gmail.com)&nbsp;
 [![GymFlow](https://img.shields.io/badge/live_product-GymFlow-0d1117?style=flat-square&logoColor=3fb950&color=0d1117&labelColor=161b22)](https://app.usegymflow.com)
