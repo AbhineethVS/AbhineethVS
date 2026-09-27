@@ -16,6 +16,20 @@
 
 <br>
 
+## WINS & CREDENTIALS
+
+<div align="center">
+
+![YC Startup School](https://img.shields.io/badge/Y_COMBINATOR-STARTUP_SCHOOL_INDIA_%2726-ffffff?style=for-the-badge&logo=ycombinator&logoColor=F0652F&labelColor=0d1117&color=262626)
+[![DSOLVE 2026](https://img.shields.io/badge/DSOLVE_2026-DRISHTI_%C2%B7_CET-ffffff?style=for-the-badge&labelColor=0d1117&color=262626)](https://toothpaste-cv.vercel.app/)
+[![GMTK Game Jam 2026](https://img.shields.io/badge/GMTK_GAME_JAM-2026-ffffff?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C&labelColor=0d1117&color=262626)](https://aadithya-pradeep.itch.io/exploding-chickens)
+[![Paying client](https://img.shields.io/badge/SHIPPED_%26_SOLD-GYMFLOW_SaaS-ffffff?style=for-the-badge&labelColor=0d1117&color=262626)](https://app.usegymflow.com)
+[![Founder](https://img.shields.io/badge/FOUNDER-PARAYOO-ffffff?style=for-the-badge&labelColor=0d1117&color=262626)](https://www.parayoo.in/)
+
+</div>
+
+<br>
+
 ## FLAGSHIP
 
 <table>
@@ -52,6 +66,8 @@ hold bubble  →  speak Malayalam  →  Sarvam STT  →  LLM Manglish rewrite  �
 
 ### [TOOTHPASTE.CV](https://toothpaste-cv.vercel.app/)
 
+<a href="https://toothpaste-cv.vercel.app/"><img src="./assets/toothpaste-cv.jpg" alt="toothpaste.cv landing page" width="100%"></a>
+
 `LIVE` &nbsp; `DSOLVE 2026 · CET` &nbsp; `TEAM OF 4`
 
 A two-minute oral health screening in the browser. Five guided photos go through GPT and Claude vision in parallel, then a **custom-trained CV layer** (YOLOv11 crowding detector, CLIP stain and wear classifiers) draws boxes and heatmaps, and the result is a dentist-ready report.
@@ -62,6 +78,8 @@ A two-minute oral health screening in the browser. Five guided photos go through
 <td width="50%" valign="top">
 
 ### [LUMA](https://luma-study.onrender.com/)
+
+<a href="https://luma-study.onrender.com/"><img src="./assets/luma.jpg" alt="LUMA study workspace with sources, chat, and studio" width="100%"></a>
 
 `LIVE` &nbsp; `RAG` &nbsp; `EDTECH`
 
@@ -76,6 +94,8 @@ A study desk for your course PDFs that only answers from your sources. Every ans
 
 ### [ETLABAN](https://etlaban.vercel.app/)
 
+<a href="https://etlaban.vercel.app/"><img src="./assets/etlaban.jpg" alt="ETLaban home dashboard with attendance and marks" width="100%"></a>
+
 `LIVE` &nbsp; `PWA` &nbsp; `OPEN SOURCE`
 
 *Same data, less suffering.* A fast, calm replacement front-end for CET's ETLab portal. It shows attendance, how many classes you can still skip, a per-period calendar, SGPA charts, and study materials. It's read-only, credentials are never stored server-side, and it works offline.
@@ -85,6 +105,21 @@ A study desk for your course PDFs that only answers from your sources. Every ans
 </td>
 <td width="50%" valign="top">
 
+### [EXPLODING CHICKENS](https://aadithya-pradeep.itch.io/exploding-chickens)
+
+<a href="https://aadithya-pradeep.itch.io/exploding-chickens"><img src="./assets/exploding-chickens.jpg" alt="Exploding Chickens gameplay" width="100%"></a>
+
+`PLAYABLE` &nbsp; `GMTK GAME JAM 2026` &nbsp; `TEAM OF 3`
+
+A chaotic farm-survival game made for GMTK 2026. Protect your flock from countdown bombs and a growing roster of wild chicken types, in either Story or Chaos mode.
+
+**Unity** &nbsp; **C#** &nbsp; **2D URP** &nbsp; **Game Jam**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [PARAYOO KEYBOARD LAB](https://github.com/AbhineethVS/wisprflow-sandbox)
 
 `R&D` &nbsp; `ANDROID INTERNALS`
@@ -92,19 +127,6 @@ A study desk for your course PDFs that only answers from your sources. Every ans
 A black-box test harness that pushes Android through dozens of keyboard and focus states to learn exactly when Wispr Flow shows its bubble. It showed empirically that the trigger is the IME window (`TYPE_INPUT_METHOD`), not editable focus, and that finding now drives Parayoo's overlay logic.
 
 **Kotlin** &nbsp; **Accessibility APIs** &nbsp; **IME** &nbsp; **Android SDK 36**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [EXPLODING CHICKENS](https://aadithya-pradeep.itch.io/exploding-chickens)
-
-`PLAYABLE` &nbsp; `GMTK GAME JAM 2026` &nbsp; `TEAM OF 3`
-
-A chaotic farm-survival game made for GMTK 2026. Protect your flock from countdown bombs and a growing roster of wild chicken types, in either Story or Chaos mode.
-
-**Unity** &nbsp; **C#** &nbsp; **2D URP** &nbsp; **Game Jam**
 
 </td>
 <td width="50%" valign="top">
@@ -228,7 +250,7 @@ A full-stack gym management SaaS. I built it, deployed it, and sold it to a real
 
 ## OFF THE CLOCK
 
-Attended **YC Startup School India '26**. Built at **DSOLVE**, **GMTK**, and a string of AI hackathons. Usually taking apart how other products work, testing the edges of LLMs, or keeping one more half-built idea open in a tab.
+When I'm not shipping, I'm usually at a hackathon, taking apart how other products work, testing the edges of LLMs, or keeping one more half-built idea open in a tab.
 
 <br>
 
