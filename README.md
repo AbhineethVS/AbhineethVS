@@ -24,9 +24,9 @@
 
 ### [PARAYOO](https://www.parayoo.in/) &nbsp;·&nbsp; *Speak Malayalam. Text Manglish.*
 
-`LIVE ON GOOGLE PLAY` &nbsp; `FOUNDER` &nbsp; `ANDROID`
+`LAUNCHING SOON` &nbsp; `FOUNDER` &nbsp; `ANDROID`
 
-Every Malayali thinks in Malayalam and texts in Manglish, and typing it out is slow and awkward. **Parayoo** puts a floating bubble over any app: hold it, say what you mean in Malayalam, and it types natural Manglish straight into the chat field. It reads the way you'd actually write it, not like a stiff transliteration.
+A lot of Malayalis casually text in Manglish on WhatsApp, Instagram, and everywhere else, but typing it out is slow and there's no "right" spelling. **Parayoo** puts a floating bubble over any app: hold it, say what you mean in Malayalam, and it types natural Manglish straight into the chat field. It reads the way you'd actually write it, not like a stiff transliteration.
 
 It isn't a keyboard. It works *with* your keyboard: no switching apps, no copy-paste, no account, private by design.
 
@@ -36,7 +36,6 @@ hold bubble  →  speak Malayalam  →  Sarvam STT  →  LLM Manglish rewrite  �
 
 **Kotlin** &nbsp; **Android** &nbsp; **Accessibility Service** &nbsp; **Sarvam AI** &nbsp; **LLMs** &nbsp; **PostHog**
 
-[![Get it on Google Play](https://img.shields.io/badge/GET_IT_ON-GOOGLE_PLAY-ffffff?style=for-the-badge&logo=googleplay&logoColor=ffffff&labelColor=0d1117&color=262626)](https://play.google.com/store/apps/details?id=com.manglish)
 [![Website](https://img.shields.io/badge/WEBSITE-parayoo.in-ffffff?style=for-the-badge&labelColor=0d1117&color=262626)](https://www.parayoo.in/)
 
 </td>
@@ -99,13 +98,13 @@ A black-box test harness that pushes Android through dozens of keyboard and focu
 <tr>
 <td width="50%" valign="top">
 
-### [EPFO RESOLVE](https://epfo-resolve.vercel.app/)
+### [EXPLODING CHICKENS](https://aadithya-pradeep.itch.io/exploding-chickens)
 
-`LIVE` &nbsp; `HACKATHON`
+`PLAYABLE` &nbsp; `GMTK GAME JAM 2026` &nbsp; `TEAM OF 3`
 
-A guided resolution flow for one of India's most frustrating journeys: a PF transfer stuck on a contradictory EPS record. It uses a deterministic workflow with a guard-railed AI assistant, voice input, an audit trail, and PDF case summaries.
+A chaotic farm-survival game made for GMTK 2026. Protect your flock from countdown bombs and a growing roster of wild chicken types, in either Story or Chaos mode.
 
-**Next.js** &nbsp; **OpenAI** &nbsp; **Supabase RLS** &nbsp; **Zod** &nbsp; **Vitest**
+**Unity** &nbsp; **C#** &nbsp; **2D URP** &nbsp; **Game Jam**
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +128,7 @@ A full-stack gym management SaaS. I built it, deployed it, and sold it to a real
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Exploding Chickens**](https://aadithya-pradeep.itch.io/exploding-chickens) | GMTK Game Jam 2026 farm-survival chaos with countdown bombs and wild chicken types. Built by a team of three. | Unity · C# |
+| [**EPFO Resolve**](https://epfo-resolve.vercel.app/) | A hackathon build that walks you through a PF transfer stuck on a contradictory EPS record, with a guard-railed AI assistant, voice input, and PDF case summaries. | Next.js · OpenAI · Supabase |
 | [**Splitline**](https://splitline-theta.vercel.app) | Pick any movie or show, change one moment, and Claude writes the alternate timeline. | JS · TMDB · Claude |
 | [**Long Story Short**](https://long-story-short-rho.vercel.app) | A spoiler-free recap of a series up to the exact episode you stopped at. | PWA · TVMaze · Claude |
 | [**Notebook JK**](https://github.com/AbhineethVS/notebook-jk) | A Chrome extension that brings GPT, Claude, and Perplexity into NotebookLM's chat. | TypeScript · Chrome MV3 |
