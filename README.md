@@ -16,7 +16,7 @@
 
 <br>
 
-## WINS & CREDENTIALS
+## ALONG THE WAY
 
 <div align="center">
 
